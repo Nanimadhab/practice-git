@@ -1,0 +1,20 @@
+* {
+  text-decoration: none;
+}
+#button1 {
+  height: 2rem;
+  width: 20rem;
+  color: red;
+  border-radius: 1rem;
+  border-style: none;
+  background-color: black;
+}
+
+button {
+  height: 2rem;
+  width: 20rem;
+  color: rgb(230, 229, 229);
+  border-radius: 1rem;
+  border-style: none;
+  background-color: black;
+}
